@@ -10,3 +10,6 @@ This will be a diet app. Users will choose between options like low-carb, plant-
 * Docker (for containerization)
 * REST API (for communication between frontend and backend)
 * JWT (for user authentication) - maybe
+
+** Harwdware used for sever: **
+* Raspberry Pi 4B 8GB
