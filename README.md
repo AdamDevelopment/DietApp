@@ -11,5 +11,5 @@ This will be a diet app. Users will choose between options like low-carb, plant-
 * REST API (for communication between frontend and backend)
 * JWT (for user authentication) - maybe
 
-** Harwdware used for sever: **
+**Harwdware used for sever:**
 * Raspberry Pi 4B 8GB
